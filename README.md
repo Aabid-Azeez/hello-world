@@ -1,3 +1,3 @@
-# hello-world
-"This repository is for practicing the GitHub Flow."
-Assignment for embedded
+Aabid Azeez
+Xilinx Zynq ARM Cortex-9
+Olives
